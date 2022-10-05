@@ -1,0 +1,21 @@
+# Server Settings
+
+PORT=3001
+
+# Session/Cookie Settings
+
+COOKIE_SECRET=some random string here
+
+# Discord App Credentials
+
+DISCORD_CLIENT_ID=
+DISCORD_CLIENT_SECRET=
+DISCORD_REDIRECT_URL=http://localhost:3001/api/auth/redirect
+DISCORD_BOT_TOKEN=YOUR BOT TOKEN
+
+# MySQL Server Settings
+
+MYSQL_DB_HOST=
+MYSQL_DB_USERNAME=
+MYSQL_DB_PASSWORD=
+MYSQL_DB_DATABASE=discord_dashboard
